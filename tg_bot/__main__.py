@@ -18,11 +18,17 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
+
 Hi {}, my name is {}! 
-I am here to help to do your studies
-simply type /notes 
+
+I was made to help to do your studies...
+
+So it is up to you.
+
+Simply type /notes 
 
 
+"""
 
 
 HELP_STRINGS = """
